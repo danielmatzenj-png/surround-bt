@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>CFBundleName</key><string>Surround BT</string>
+  <key>CFBundleDisplayName</key><string>Surround BT</string>
+  <key>CFBundleIdentifier</key><string>app.surroundbt.mac</string>
+  <key>CFBundleExecutable</key><string>SurroundBT</string>
+  <key>CFBundleIconFile</key><string>AppIcon</string>
+  <key>CFBundlePackageType</key><string>APPL</string>
+  <key>CFBundleShortVersionString</key><string>1.0</string>
+  <key>CFBundleVersion</key><string>1</string>
+  <key>LSMinimumSystemVersion</key><string>12.0</string>
+  <key>NSHighResolutionCapable</key><true/>
+  <key>LSApplicationCategoryType</key><string>public.app-category.music</string>
+  <key>NSMicrophoneUsageDescription</key><string>Surround BT escucha con el micrófono para calibrar tus parlantes y mantenerlos sincronizados. No graba ni guarda audio.</string>
+  <key>NSBluetoothAlwaysUsageDescription</key><string>Surround BT reconecta solo tus parlantes Bluetooth cuando se apagan o se desconectan.</string>
+  <key>NSLocalNetworkUsageDescription</key><string>Para que puedas controlar Surround BT desde tu iPhone en la misma Wi-Fi.</string>
+  <key>NSAppTransportSecurity</key><dict><key>NSAllowsLocalNetworking</key><true/></dict>
+</dict></plist>

@@ -1,0 +1,12 @@
+# Generados al armar la app
+packaging/out/
+packaging/build/
+packaging/.venv/
+bin/btconnect
+__pycache__/
+*.pyc
+.DS_Store
+
+# Configuración de desarrollo local
+/config.json
+profiles/

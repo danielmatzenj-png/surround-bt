@@ -1,0 +1,21 @@
+SURROUND BT — sonido envolvente con tus parlantes Bluetooth
+
+INSTALAR
+1. Arrastra «Surround BT» a la carpeta Aplicaciones.
+2. La primera vez, haz clic derecho sobre la app → «Abrir» → «Abrir».
+   (macOS lo pide porque la app todavía no está registrada en Apple.)
+3. Acepta el permiso del micrófono: se usa para calibrar y sincronizar,
+   no graba ni guarda nada.
+
+PRIMER USO
+La app te guía paso a paso: conectar los parlantes, decir dónde están,
+afinar el sonido y elegir qué escuchar. Toma unos 3 minutos.
+
+PARA NETFLIX, SPOTIFY, YOUTUBE (audio de la Mac)
+Hace falta BlackHole (gratis): https://existential.audio/blackhole/
+La app te lleva ahí y luego, con un toque, pone el audio de la Mac en
+Surround BT.
+
+¿ALGO NO SUENA?
+Botón «Ayuda» arriba a la derecha.
+Registro técnico: ~/Library/Logs/Surround BT.log
